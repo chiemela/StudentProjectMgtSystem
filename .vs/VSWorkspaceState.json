@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StudentProjectMgtSystem"
+    "\\StudentProjectMgtSystem",
+    "\\StudentProjectMgtSystem\\Data",
+    "\\StudentProjectMgtSystem\\Models"
   ],
-  "SelectedNode": "\\StudentProjectMgtSystem\\Program.cs",
+  "SelectedNode": "\\StudentProjectMgtSystem\\Models\\CourseLecturer.cs",
   "PreviewInSolutionExplorer": false
 }
